@@ -2,4 +2,9 @@
 // "Something went wrong, please try again" in the paragraph
 // that has the id="error".
 
+let qq = document.getElementById("error")
+
+function button() {
+    qq.textContent = "yigoymai"
+}
 
